@@ -16,3 +16,6 @@ Tók skjáskot af dæmum 3-22. Er að leysa dæmi 23-32.
 
 Kláraði dæmi 24-28 og tók skjáskot af þeim. Er enn í vandræðum með dæmi 23.
 
+***3.12.2017***
+Er að reyna að klára dæmi 31-32.
+
