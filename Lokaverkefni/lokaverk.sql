@@ -280,5 +280,6 @@ WHERE PRICE_CODE = 4;
 
 /*Dæmi 31*/
 
+
 /*Dæmi 32*/
 
